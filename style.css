@@ -1,0 +1,30 @@
+body{
+    background-color: rgba(247, 209, 247, 0.671);
+    font-family: Vazirmatn,sans-serif;
+    text-align: center;
+    margin: 50px;
+
+
+}
+
+#myText{
+    transition: all 0.5s ease;
+}
+
+.buttons button{
+    background-color:rgb(227, 149, 243);
+    padding: 10px 20px ;
+    margin: 0px 10px;
+    font-size: 16px;
+    cursor: pointer;
+    font-family: Vazirmatn;
+    border:none;
+    border-radius:7px;
+    box-shadow:-4px 4px 5px rgb(139, 6, 157);
+    background: linear-gradient(135deg,#f0d3f7, rgb(227, 149, 243), #f0d3f7);
+}
+
+button:active{
+    transform: scale(0.96);
+    box-shadow: none;
+}
