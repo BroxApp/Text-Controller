@@ -1,18 +1,18 @@
-![Digital Clock Banner](Digital-Clock-13-5-26.png)
-# Digital Clock
+![Text Controller Banner](text-controller-banner.png)
+# Text Controller
 
-A sleek, modern digital clock built with HTML, CSS, and Vanilla JavaScript.
+A simple and interactive web tool to customize font styles and text sizes dynamically. Built with HTML, CSS, and Vanilla JavaScript.
 
 ## Features
-- 12-hour format with AM/PM indicator.
-- Glowing neon effect.
-- Built using Google Fonts (Orbitron) for a digital look.
-- Glassmorphism background effect.
+- Dynamic font family switching (Nastaliq, Tahoma, Vazirmatn).
+- Adjustable text size options (Small, Medium, Large, Extra Large).
+- Clean and intuitive user interface.
+- Lightweight implementation using pure JavaScript.
 
 ## Technologies Used
 - HTML5
-- CSS3 (Flexbox, Gradients, Text-shadow)
-- JavaScript (DOM Manipulation, setInterval)
+- CSS3
+- JavaScript (DOM Manipulation, Style Injection)
 
 ## How to Run
-Simply open `index.html` in any modern web browser. 
+Simply open `index.html` in any modern web browser.
