@@ -1,4 +1,4 @@
-![Text Controller Banner](Text Controller-30-6-26.png)
+![Text Controller Banner](text-controller-30-6-26.png)
 
 # Text Controller
 
